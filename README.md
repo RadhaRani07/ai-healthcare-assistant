@@ -2,6 +2,12 @@
 
 An educational machine learning project that uses Python and Scikit-learn to classify diabetes outcomes from medical dataset features.
 
+
+## 🚀 Live Demo
+
+Try the app here: [AI Healthcare Assistant](https://ai-healthcare-assistant-rcvk82rkkgaqtpo6vgxjhr.streamlit.app/)
+
+
 ## Project Overview
 
 This project demonstrates a basic machine learning workflow, including data preprocessing, model training, evaluation, and an interactive web interface built with Gradio.
